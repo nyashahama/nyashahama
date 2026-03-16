@@ -62,16 +62,7 @@ Backend-heavy full-stack engineer from **Johannesburg, South Africa** who ships 
 
 ---
 
-## Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| [**go-scalable-auth-boilerplate**](https://github.com/nyashahama/go-scalable-auth-boilerplate) | Production-ready auth system — pgx/sqlc, Redis sessions, NATS events, Prometheus metrics. No ORMs, benchmarked. | Go · PostgreSQL · Redis · NATS |
-| [**healthcare-access-connector**](https://github.com/nyashahama/healthcare-access-connector-backend) | Full-stack platform connecting rural South Africans to clinics and telemedicine. HIPAA/POPIA-compliant. JWT, Redis, NATS, SMS/USSD. | Go · React · PostgreSQL |
-| [**asymmetric-risk-mapper**](https://github.com/nyashahama/asymmetric-risk-mapper) | Finds the risks that could kill your business — and helps you ignore the ones that won't. Stripe integrated. | Next.js · TypeScript · Go |
-| [**garageos**](https://github.com/nyashahama/garageos) | Replaces paper job cards, WhatsApp quotes & notebook invoices with one OS for South African mechanics. | Next.js · TypeScript |
-| [**invoice-chaser**](https://github.com/nyashahama/invoice-chaser) | Autopilot invoice collection — sends follow-ups until you actually get paid. Full Go backend + Next.js UI. | Go · Next.js · TypeScript |
-| [**gin-boilerplate**](https://github.com/nyashahama/gin-boilerplate) | Clean architecture Go backend template. Production-ready, scalable, highly opinionated. | Go · PostgreSQL · Docker |
 
 ---
 
@@ -92,28 +83,7 @@ Backend-heavy full-stack engineer from **Johannesburg, South Africa** who ships 
 
 ---
 
-## My Approach
 
-```go
-type Engineer struct {
-    Name        string
-    Location    string
-    Philosophy  string
-    CurrentFocus []string
-}
-
-var nyasha = Engineer{
-    Name:     "Nyasha Hama",
-    Location: "South Africa 🇿🇦",
-    Philosophy: "Ship things that work. Make them fast. Keep them simple.",
-    CurrentFocus: []string{
-        "Event-driven Go backends",
-        "High-performance auth systems",
-        "Products for African markets",
-        "Building in public",
-    },
-}
-```
 
 ---
 
