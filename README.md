@@ -61,23 +61,30 @@ Backend-heavy full-stack engineer from **Johannesburg, South Africa** who ships 
 ![sqlc](https://img.shields.io/badge/sqlc-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
-
-
-
 ---
 
 ## GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="profile/stats.svg" />
-<img height="180em" src="profile/languages.svg" />
+![Nyasha's GitHub stats](./profile/stats-dark.svg#gh-dark-mode-only)
+![Nyasha's GitHub stats](./profile/stats-light.svg#gh-light-mode-only)
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nyashahama&theme=dark&hide_border=true&background=0D1117&ring=6EE7B7&fire=6EE7B7&currStreakLabel=6EE7B7)](https://git.io/streak-stats)
+![Nyasha's top languages](./profile/top-langs-dark.svg#gh-dark-mode-only)
+![Nyasha's top languages](./profile/top-langs-light.svg#gh-light-mode-only)
+
+</div>
+
+---
+
+<div align="center">
+
+![Nyasha's GitHub streak](./profile/streak-dark.svg#gh-dark-mode-only)
+![Nyasha's GitHub streak](./profile/streak-light.svg#gh-light-mode-only)
 
 </div>
 

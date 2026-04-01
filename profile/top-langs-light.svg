@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-labelledby="title desc">
+  <title id="title">Nyasha's top languages</title>
+  <desc id="desc">Placeholder top languages card while the GitHub Action generates the live SVG.</desc>
+  <rect width="495" height="195" rx="12" fill="#ffffff"/>
+  <rect x="12" y="12" width="471" height="171" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text x="28" y="42" fill="#1f2328" font-family="Verdana, sans-serif" font-size="20" font-weight="700">Top languages are regenerating</text>
+  <text x="28" y="78" fill="#0969da" font-family="Verdana, sans-serif" font-size="14">The workflow now commits local SVG assets instead of linking broken images.</text>
+  <text x="28" y="108" fill="#1a7f37" font-family="Verdana, sans-serif" font-size="14">Expected output: profile/top-langs-light.svg and dark variant.</text>
+  <text x="28" y="148" fill="#1f2328" font-family="Verdana, sans-serif" font-size="13">Next update runs on push, manual dispatch, or schedule.</text>
+</svg>
