@@ -70,8 +70,8 @@ Backend-heavy full-stack engineer from **Johannesburg, South Africa** who ships 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nyashahama&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=6EE7B7&icon_color=6EE7B7&text_color=C9D1D9&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyashahama&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=6EE7B7&text_color=C9D1D9&langs_count=8" />
+<img height="180em" src="profile/stats.svg" />
+<img height="180em" src="profile/languages.svg" />
 
 </div>
 
