@@ -6,7 +6,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=6EE7B7)](https://portfolio-topaz-one-58.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-nyashaahama%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nyashaahama@gmail.com)
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-%2300B37D?style=for-the-badge&logo=handshake&logoColor=white)](#)
 
 </div>
 
@@ -25,29 +24,28 @@ Backend and platform engineer from **Pretoria, South Africa** building productio
 
 ## Tech Stack
 
-**Core Languages**
+**Lead Stack**
 
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat-square&logo=redis&logoColor=white)
+
+**Secondary Foundations**
+
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=cplusplus&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-%23512BD4.svg?style=flat-square&logo=csharp&logoColor=white)
 
-**Backend & Data**
+**Backend & Delivery**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat-square&logo=redis&logoColor=white)
 ![NATS](https://img.shields.io/badge/NATS-%2327AAE1.svg?style=flat-square&logo=natsdotio&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=flat-square&logo=prometheus&logoColor=white)
 ![sqlc](https://img.shields.io/badge/sqlc-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![pgx](https://img.shields.io/badge/pgx-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
-
-**Frontend & Delivery**
-
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
@@ -87,7 +85,6 @@ Backend and platform engineer from **Pretoria, South Africa** building productio
 
 </div>
 
----
 ---
 
 <div align="center">
