@@ -4,7 +4,6 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=6EE7B7)](https://portfolio-topaz-one-58.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-nyashaahama%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nyashaahama@gmail.com)
 
 </div>
@@ -75,8 +74,6 @@ Backend and platform engineer from **Pretoria, South Africa** building productio
 ![Nyasha's top languages](./profile/top-langs-light.svg#gh-light-mode-only)
 
 </div>
-
----
 
 <div align="center">
 
