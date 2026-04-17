@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-nyashaahama%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nyashaahama@gmail.com)
+<a href="mailto:nyashaahama@gmail.com"><img src="https://img.shields.io/badge/Email-nyashaahama%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 </div>
 
@@ -86,9 +86,9 @@ Backend and platform engineer from **Pretoria, South Africa** building productio
 
 <div align="center">
 
-*Open to full-time roles, contract work, and technically serious problems.*
-**Backend systems, product engineering, and infrastructure-minded work.**
+<p><em>Open to full-time roles, contract work, and technically serious problems.</em></p>
+<p><strong>Backend systems, product engineering, and infrastructure-minded work.</strong></p>
 
-[![Portfolio](https://img.shields.io/badge/See%20My%20Work-%23000000?style=for-the-badge&logo=vercel&logoColor=6EE7B7)](https://portfolio-topaz-one-58.vercel.app/)
+<a href="https://portfolio-topaz-one-58.vercel.app/"><img src="https://img.shields.io/badge/See%20My%20Work-%23000000?style=for-the-badge&logo=vercel&logoColor=6EE7B7" alt="See My Work"></a>
 
 </div>
