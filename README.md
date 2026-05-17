@@ -1,63 +1,49 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6EE7B7&center=true&vCenter=true&width=760&lines=Hey%2C+I'm+Nyasha+Hama+%F0%9F%91%8B;Backend+%26+Platform+Engineer;Pretoria%2C+South+Africa+%F0%9F%87%BF%F0%9F%87%A6;Go+%E2%80%A2+Rust+%E2%80%A2+TypeScript+%E2%80%A2+Next.js" alt="Typing SVG" />
+# Nyasha Hama
 
-<br/>
+**Backend & Platform Engineer**<br>
+Go, TypeScript, Rust, PostgreSQL, Redis, Docker, CI/CD, observability, and production-minded product systems.
 
-<a href="mailto:nyashaahama@gmail.com"><img src="https://img.shields.io/badge/Email-nyashaahama%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+Johannesburg, South Africa<br>
+[Portfolio](https://portfolio-topaz-one-58.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/nyasha-hama-5b1312229/) | [Email](mailto:nyashaahama@gmail.com)
 
 </div>
 
 ---
 
-## About Me
+## What I Build
 
-Backend and platform engineer from **Pretoria, South Africa** building production-minded systems across healthcare, property management, workflow automation, and developer tooling.
+I build public, working systems with backend depth and product discipline: Go APIs, TypeScript product surfaces, Rust infrastructure/database work, PostgreSQL schemas, Redis-backed workflows, authentication, observability, release gates, and Dockerized local environments.
 
-- Currently focused on **Go, Rust, TypeScript, and Next.js** for backend systems and modern product delivery
-- I design APIs, authentication flows, PostgreSQL data layers, Redis-backed services, and observability-first workflows
-- Strong foundations in **Java, C++, and C#**, including earlier backend and web work with ASP.NET
-- Interested in distributed systems, secure execution, database internals, and software that holds up under real operational pressure
+My strongest current proof is in healthcare operations, property platforms, and upstream database work:
 
----
-
-## Tech Stack
-
-**Lead Stack**
-
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=nextdotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat-square&logo=redis&logoColor=white)
-
-**Secondary Foundations**
-
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=cplusplus&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-%23512BD4.svg?style=flat-square&logo=csharp&logoColor=white)
-
-**Backend & Delivery**
-
-![NATS](https://img.shields.io/badge/NATS-%2327AAE1.svg?style=flat-square&logo=natsdotio&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=flat-square&logo=prometheus&logoColor=white)
-![sqlc](https://img.shields.io/badge/sqlc-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white)
-![pgx](https://img.shields.io/badge/pgx-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?style=flat-square&logo=tailwindcss&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black)
+- **ClinicPulse**: live clinic-operations platform for South Africa's public primary healthcare network.
+- **StrataHQ**: live sectional-title property operations platform for agents, trustees, and residents.
+- **Turso**: merged upstream Rust database-engine contribution preserving SQLite AUTOINCREMENT semantics after `ALTER TABLE DROP COLUMN`.
 
 ---
 
-## Featured Work
+## Current Proof
 
-- **[StrataHQ](https://github.com/nyashahama/StrataHQ)** | Property operations platform built with Go, PostgreSQL, Redis, and Next.js | [Live](https://strata-hq-blue.vercel.app)
-- **[Healthcare Access Connector](https://github.com/nyashahama/healthcare-access-connector-backend)** | Go backend for patient-provider workflows, messaging, caching, and observability
-- **[guard-rail](https://github.com/nyashahama/guard-rail)** | Rust secure-execution runtime focused on readiness, metrics, logging, and operational hardening | [Live](https://guard-rail-steel.vercel.app)
-- **[Burnout Predictor](https://github.com/nyashahama/burnout-predictor)** | Go + Next.js workload-analysis product for risk scoring and intervention workflows | [Live](https://burnout-predictor-ten.vercel.app/)
+| Project | What it proves | Links |
+| --- | --- | --- |
+| **ClinicPulse** | TypeScript/Go clinic-operations platform with role dashboards, referral routing, field workflows, release gates, auth/security hardening, pilot data integrity, PostgreSQL API paths, E2E coverage, smoke/load scripts, and observability primitives. | [GitHub](https://github.com/nyashahama/clinic-pulse) | [Live](https://clinic-pulse-five.vercel.app) |
+| **StrataHQ** | Next.js/Go property platform for South African sectional-title schemes with levy operations, maintenance workflows, communications, AGM administration, audit logs, open API access, predictive levy analytics, PostgreSQL, pgx/sqlc, Redis, and CI. | [GitHub](https://github.com/nyashahama/StrataHQ) | [Live](https://strata-hq-blue.vercel.app) |
+| **Turso PR #6993** | Upstream Rust database-engine fix preserving SQLite-compatible AUTOINCREMENT behavior after schema rewrites, with SQL regression and file-backed reopen integration coverage. | [Merged PR](https://github.com/tursodatabase/turso/pull/6993) |
+| **Healthcare Access Connector** | Go backend for patient/provider scheduling, search, notifications, telemedicine support, staff invitations, JWT/RBAC, Redis, NATS, Prometheus metrics, structured logging, and health endpoints. | [GitHub](https://github.com/nyashahama/healthcare-access-connector-backend) |
+| **TitleChain** | Next.js, Go, and Rust property-transaction intelligence platform with case workflow, property projection, source ingestion, decision engine, PostgreSQL migrations, and Docker infrastructure. | [GitHub](https://github.com/nyashahama/titlechain) | [Live](https://titlechain-portal.vercel.app) |
+
+---
+
+## Engineering Surface Area
+
+**Languages:** Go, TypeScript, Rust, SQL, JavaScript/Node.js, Java, C++<br>
+**Backend:** REST APIs, service design, JWT auth, RBAC, background jobs, caching, messaging, validation, rate limiting<br>
+**Data:** PostgreSQL, Redis, pgx, sqlc, goose migrations, schema design, indexing, SQLite internals<br>
+**Platform:** Docker, Linux, GitHub Actions, CI/CD, Prometheus, structured logging, request tracing, E2E tests, smoke/load checks, release gates
+
+---
 
 ## GitHub Stats
 
@@ -66,16 +52,8 @@ Backend and platform engineer from **Pretoria, South Africa** building productio
 ![Nyasha's GitHub stats](./profile/stats-dark.svg#gh-dark-mode-only)
 ![Nyasha's GitHub stats](./profile/stats-light.svg#gh-light-mode-only)
 
-</div>
-
-<div align="center">
-
 ![Nyasha's top languages](./profile/top-langs-dark.svg#gh-dark-mode-only)
 ![Nyasha's top languages](./profile/top-langs-light.svg#gh-light-mode-only)
-
-</div>
-
-<div align="center">
 
 ![Nyasha's GitHub streak](./profile/streak-dark.svg#gh-dark-mode-only)
 ![Nyasha's GitHub streak](./profile/streak-light.svg#gh-light-mode-only)
@@ -86,9 +64,8 @@ Backend and platform engineer from **Pretoria, South Africa** building productio
 
 <div align="center">
 
-<p><em>Open to full-time roles, contract work, and technically serious problems.</em></p>
-<p><strong>Backend systems, product engineering, and infrastructure-minded work.</strong></p>
+Open to backend, platform, product engineering, and infrastructure-minded roles.
 
-<a href="https://portfolio-topaz-one-58.vercel.app/"><img src="https://img.shields.io/badge/See%20My%20Work-%23000000?style=for-the-badge&logo=vercel&logoColor=6EE7B7" alt="See My Work"></a>
+[See my work](https://portfolio-topaz-one-58.vercel.app/) | [Contact me](mailto:nyashaahama@gmail.com)
 
 </div>
