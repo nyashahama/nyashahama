@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Nyasha Hama's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 7, Total Commits  : 3990, Total PRs: 432, Total Issues: 537, Contributed to (last year): 5</desc>
+        <desc id="descId">Total Stars Earned: 7, Total Commits  : 3991, Total PRs: 432, Total Issues: 537, Contributed to (last year): 5</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 98.95611419899683;
+        stroke-dashoffset: 98.82215739915988;
       }
     }
   
