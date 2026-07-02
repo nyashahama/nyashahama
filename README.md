@@ -5,7 +5,7 @@
 **Backend & Platform Engineer**<br>
 Go, TypeScript, Rust, PostgreSQL, Redis, Docker, CI/CD, observability, and production-minded product systems.
 
-Johannesburg, South Africa<br>
+Cape Town, South Africa<br>
 [Portfolio](https://portfolio-topaz-one-58.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/nyasha-hama-5b1312229/) | [Email](mailto:nyashaahama@gmail.com)
 
 </div>
