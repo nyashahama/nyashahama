@@ -1,79 +1,35 @@
-<div align="center">
-
 # Nyasha Hama
 
-**Backend & Platform Engineer**<br>
-Go, TypeScript, Rust, PostgreSQL, Redis, Docker, CI/CD, observability, and production-minded product systems.
+**Full-Stack Software Engineer · Product & Platform Engineering**  
+React · Next.js · TypeScript · Go · Java · PostgreSQL
 
-Cape Town, South Africa<br>
-[Portfolio](https://portfolio-topaz-one-58.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/nyasha-hama-5b1312229/) | [Email](mailto:nyashaahama@gmail.com)
+Cape Town, South Africa  
+[Portfolio](https://portfolio-topaz-one-58.vercel.app/) · [Résumé (PDF)](https://portfolio-topaz-one-58.vercel.app/nyasha_hama_cv.pdf) · [LinkedIn](https://www.linkedin.com/in/nyasha-hama-5b1312229/) · [Email](mailto:nyashaahama@gmail.com)
 
-</div>
+I build operational products across responsive React and Next.js interfaces, Go services, PostgreSQL data models, background jobs, CI, and observability. My upstream work includes three merged PRs across Turso's Rust database engine and CrossHair's Python/C tracer.
 
----
+## Selected Work
 
-## What I Build
+- **[ClinicPulse](https://github.com/nyashahama/clinic-pulse)** — Alpha clinic-operations product for public discovery, offline-capable field reporting, district review, partner access, and administrative governance. Built with Next.js, Go, and PostgreSQL; at the Aug 2026 revision, all 543 frontend tests and the full Go test suite passed. [Demo](https://clinic-pulse-five.vercel.app)
 
-I build public, working systems with backend depth and product discipline: Go APIs, TypeScript product surfaces, Rust infrastructure/database work, PostgreSQL schemas, Redis-backed workflows, authentication, observability, release gates, and Dockerized local environments.
+- **[StrataHQ](https://github.com/nyashahama/StrataHQ)** — Beta property-operations product for agents, trustees, and residents. Covers transactional levy reconciliation, bank-statement imports, idempotent background jobs, and maintenance workflows with Next.js, Go, PostgreSQL, sqlc, and Redis. [Demo](https://strata-hq-blue.vercel.app)
 
-My strongest current proof is in healthcare operations, property platforms, and upstream database/symbolic-execution work:
-
-- **ClinicPulse**: live clinic-operations platform for South Africa's public primary healthcare network.
-- **StrataHQ**: live sectional-title property operations platform for agents, trustees, and residents.
-- **Upstream OSS**: merged Rust database-engine work in Turso and Python/C tracer work in CrossHair.
-
----
+- **[E-Commerce Search Backend](https://github.com/nyashahama/optimizing-search-algorithms-in-e-commerce-platforms-backend)** — Java 21 and Spring Boot commerce backend with SQL LIKE, PostgreSQL full-text, in-memory, and OpenSearch discovery paths; Kafka-driven indexing; asynchronous benchmark jobs; and contract, authorization, and buyer-flow smoke tests in CI.
 
 ## Upstream Open Source
 
-| Project | Merged work | Proof |
-| --- | --- | --- |
-| **Turso** | Two Rust database-engine fixes around SQLite-compatible schema rewrites: preserving `AUTOINCREMENT` after `DROP COLUMN`, then clearing stale `sqlite_sequence` metadata when `ALTER COLUMN` removes an AUTOINCREMENT rowid alias. | [PR #6993](https://github.com/tursodatabase/turso/pull/6993) · [PR #7117](https://github.com/tursodatabase/turso/pull/7117) |
-| **CrossHair** | Python/C tracer change moving call target normalization into the C extension, with tests for bound methods, callable instances, reference behavior, and descriptor-error handling. | [PR #413](https://github.com/pschanely/CrossHair/pull/413) |
+- **Turso · Rust** — Fixed SQLite-compatible schema and metadata invariants around `AUTOINCREMENT`: preserving state after `DROP COLUMN`, then clearing stale `sqlite_sequence` metadata when `ALTER COLUMN` removes the row-ID alias. [PR #6993](https://github.com/tursodatabase/turso/pull/6993) · [PR #7117](https://github.com/tursodatabase/turso/pull/7117)
 
----
+- **CrossHair · Python/C** — Moved call-target normalization into the C tracer without changing keyword handling or trace dispatch, with regressions for Python and C bound methods, callable instances, and descriptor errors. [PR #413](https://github.com/pschanely/CrossHair/pull/413)
 
-## Product Systems
+## Engineering Toolkit
 
-| Project | What it proves | Code / PR | Live / Proof |
-| --- | --- | --- | --- |
-| **ClinicPulse** | TypeScript/Go clinic-operations platform with role dashboards, referral routing, field workflows, release gates, auth/security hardening, pilot data integrity, PostgreSQL API paths, E2E coverage, smoke/load scripts, and observability primitives. | [GitHub](https://github.com/nyashahama/clinic-pulse) | [Live](https://clinic-pulse-five.vercel.app) |
-| **StrataHQ** | Next.js/Go property platform for South African sectional-title schemes with levy operations, maintenance workflows, communications, AGM administration, audit logs, open API access, predictive levy analytics, PostgreSQL, pgx/sqlc, Redis, and CI. | [GitHub](https://github.com/nyashahama/StrataHQ) | [Live](https://strata-hq-blue.vercel.app) |
-| **Healthcare Access Connector** | Go backend for patient/provider scheduling, search, notifications, telemedicine support, staff invitations, JWT/RBAC, Redis, NATS, Prometheus metrics, structured logging, and health endpoints. | [GitHub](https://github.com/nyashahama/healthcare-access-connector-backend) | |
-| **TitleChain** | Next.js, Go, and Rust property-transaction intelligence platform with case workflow, property projection, source ingestion, decision engine, PostgreSQL migrations, and Docker infrastructure. | [GitHub](https://github.com/nyashahama/titlechain) | [Live](https://titlechain-portal.vercel.app) |
+- **Languages:** TypeScript, Go, Java, SQL, JavaScript, Rust, C#, C++
+- **Frontend:** React, Next.js, Tailwind CSS, TanStack Query, responsive UI, design systems, accessibility testing
+- **Backend & Data:** REST APIs, Go (Chi), Spring Boot, Node.js, PostgreSQL, pgx, sqlc, Redis, background jobs, SQLite internals
+- **Platform & Quality:** Docker, Linux, Prometheus, structured logging, request tracing, GitHub Actions, Playwright, Vitest, CI/CD
 
----
+## Contact
 
-## Engineering Surface Area
-
-**Languages:** Go, TypeScript, Rust, SQL, JavaScript/Node.js, Java, C++<br>
-**Backend:** REST APIs, service design, JWT auth, RBAC, background jobs, caching, messaging, validation, rate limiting<br>
-**Data:** PostgreSQL, Redis, pgx, sqlc, goose migrations, schema design, indexing, SQLite internals<br>
-**Platform:** Docker, Linux, GitHub Actions, CI/CD, Prometheus, structured logging, request tracing, E2E tests, smoke/load checks, release gates
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Nyasha's GitHub stats](./profile/stats-dark.svg#gh-dark-mode-only)
-![Nyasha's GitHub stats](./profile/stats-light.svg#gh-light-mode-only)
-
-![Nyasha's top languages](./profile/top-langs-dark.svg#gh-dark-mode-only)
-![Nyasha's top languages](./profile/top-langs-light.svg#gh-light-mode-only)
-
-![Nyasha's GitHub streak](./profile/streak-dark.svg#gh-dark-mode-only)
-![Nyasha's GitHub streak](./profile/streak-light.svg#gh-light-mode-only)
-
-</div>
-
----
-
-<div align="center">
-
-Open to backend, platform, product engineering, and infrastructure-minded roles.
-
-[See my work](https://portfolio-topaz-one-58.vercel.app/) | [Contact me](mailto:nyashaahama@gmail.com)
-
-</div>
+Open to full-stack product roles with meaningful frontend work and deep backend/platform ownership.  
+[nyashaahama@gmail.com](mailto:nyashaahama@gmail.com) · [linkedin.com/in/nyasha-hama-5b1312229](https://www.linkedin.com/in/nyasha-hama-5b1312229/)
